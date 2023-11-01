@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-nuxt-content",
+	"name": "Obsidian Nuxt Content",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "This app adds some helpers to make it easy to publish content through Nuxt Content.",
+	"author": "EJ Fox",
+	"authorUrl": "https://ejfox.com",
+	"isDesktopOnly": true
+}
